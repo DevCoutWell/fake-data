@@ -1,14 +1,14 @@
-const steps = [
+[
   {
-    id: crypto.randomUUID(),
-    description: "Entender o problema do cliente"
+    "id": "igsbd1F",
+    "description": "Entender o problema do cliente"
   },
   {
-    id: crypto.randomUUID(),
-    description: "Desenvolver a solução do problema",
+    "id": "lnedfgvp5V",
+    "description": "Desenvolver a solução do problema",
   },
   {
-    id: crypto.randomUUID(),
-    description: "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
+    "id": "wçelgvnpkl2P",
+    "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
   }
 ]
