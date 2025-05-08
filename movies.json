@@ -1,0 +1,120 @@
+[
+{
+  "Title": "Se7en",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "22 Sep 1995",
+  "Runtime": "127 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "David Fincher",
+  "Writer": "Andrew Kevin Walker",
+  "Actors": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+  "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 29 wins & 44 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "8.6",
+  "imdbVotes": "1,907,628",
+  "imdbID": "tt0114369",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$101,040,643",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}, {
+  "Title": "Blade Runner",
+  "Year": "1982",
+  "Rated": "R",
+  "Released": "25 Jun 1982",
+  "Runtime": "117 min",
+  "Genre": "Action, Drama, Sci-Fi",
+  "Director": "Ridley Scott",
+  "Writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
+  "Actors": "Harrison Ford, Rutger Hauer, Sean Young",
+  "Plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+  "Language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",
+  "Country": "United States, United Kingdom",
+  "Awards": "Nominated for 2 Oscars. 13 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "8.1",
+  "imdbVotes": "853,389",
+  "imdbID": "tt0083658",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,914,489",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}, {
+  "Title": "Jurassic Park",
+  "Year": "1993",
+  "Rated": "PG-13",
+  "Released": "11 Jun 1993",
+  "Runtime": "127 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Steven Spielberg",
+  "Writer": "Michael Crichton, David Koepp",
+  "Actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+  "Plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 44 wins & 28 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "8.2",
+  "imdbVotes": "1,115,662",
+  "imdbID": "tt0107290",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$407,185,075",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
+]
